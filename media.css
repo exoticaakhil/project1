@@ -50,12 +50,14 @@
  
 }
 .contact-container{
-  display: block;
+  display: flex;
+flex-wrap: wrap;
 }
-.contact-img,
+
 .form-container{
 width: 100%;
 }
+
 
 }
 /* animation */
